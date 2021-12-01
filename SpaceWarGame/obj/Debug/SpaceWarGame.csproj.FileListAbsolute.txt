@@ -1,0 +1,10 @@
+C:\Users\barış\Desktop\c# projelerim\SpaceWarGame\bin\Debug\SpaceWarGame.exe.config
+C:\Users\barış\Desktop\c# projelerim\SpaceWarGame\bin\Debug\SpaceWarGame.exe
+C:\Users\barış\Desktop\c# projelerim\SpaceWarGame\bin\Debug\SpaceWarGame.pdb
+C:\Users\barış\Desktop\c# projelerim\SpaceWarGame\obj\Debug\SpaceWarGame.csprojAssemblyReference.cache
+C:\Users\barış\Desktop\c# projelerim\SpaceWarGame\obj\Debug\SpaceWarGame.Form1.resources
+C:\Users\barış\Desktop\c# projelerim\SpaceWarGame\obj\Debug\SpaceWarGame.Properties.Resources.resources
+C:\Users\barış\Desktop\c# projelerim\SpaceWarGame\obj\Debug\SpaceWarGame.csproj.GenerateResource.cache
+C:\Users\barış\Desktop\c# projelerim\SpaceWarGame\obj\Debug\SpaceWarGame.csproj.CoreCompileInputs.cache
+C:\Users\barış\Desktop\c# projelerim\SpaceWarGame\obj\Debug\SpaceWarGame.exe
+C:\Users\barış\Desktop\c# projelerim\SpaceWarGame\obj\Debug\SpaceWarGame.pdb
